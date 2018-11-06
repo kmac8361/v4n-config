@@ -1,0 +1,4 @@
+Host *.maas
+    UserKnownHostsFile /dev/null
+    StrictHostKeyChecking no
+    CheckHostIP no

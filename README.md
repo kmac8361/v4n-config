@@ -1,2 +1,3 @@
 # v4n-config
-V4N Orangebox Configuration for MaaS and Juju
+Set of config scripts to build working MaaS+Juju on V4N.
+https://goo.gl/FvJnxh
